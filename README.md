@@ -14,7 +14,7 @@
 
 Sou desenvolvedor web apaixonado por tecnologia, com experiência prática em projetos Full Stack e foco em entregar soluções funcionais, bem estruturadas e com boas práticas.
 
-Atuo com criação de sistemas web, APIs REST, desenvolvimento de CRUDs e integração entre frontend e backend. Estou sempre buscando evoluir como profissional e contribuir para projetos que geram valor real.
+Atuo com criação de sistemas web, APIs REST e integração entre frontend e backend. Estou sempre buscando evoluir como profissional e contribuir para projetos que geram valor real.
 
 ---
 
