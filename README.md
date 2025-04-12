@@ -61,7 +61,7 @@ Aplicação completa com Laravel + Angular. Backend com API REST, frontend com f
 ---
 
 <p align="center">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=filipeyuan.filipeyuan" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=filipeyuan.filipeyuan&left_color=gray&right_color=blue" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
