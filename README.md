@@ -54,21 +54,6 @@ Aplicação Full Stack para controle de receitas e despesas.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=filipeyuan&show_icons=true&theme=tokyonight&count_private=true"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeyuan&layout=compact&theme=tokyonight"
-  />
-</div>
-
----
-
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/filipeyuan  
