@@ -11,9 +11,11 @@
 
 ## Sobre
 
-Desenvolvedor Web Full Stack com experiência prática em projetos reais, atuando no desenvolvimento de sistemas web, APIs REST e integração eficiente entre frontend e backend.
-
-Foco em código limpo, organização, reaproveitamento de componentes e entrega de soluções funcionais e escaláveis.
+Desenvolvedor Full Stack com experiência prática no desenvolvimento de aplicações web 
+utilizando Angular, React (Next.js) e PHP. Atuação na manutenção e evolução de sistemas em 
+produção, implementação de novas funcionalidades, refatoração de código e integração com 
+APIs REST. Experiência no desenvolvimento de interfaces modernas, criação de componentes 
+reutilizáveis e integração entre frontend e backend em aplicações web e mobile. 
 
 ---
 
