@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipeyuan-967238217" target="_blank">
+  <a href="https://www.linkedin.com/in/filipe-yuan-967238217" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fyuansantos23@gmail.com">
@@ -74,7 +74,7 @@ Desenvolvedor Full Stack com experiência prática em **Angular, React (Next.js)
 
 ## 🚀 Projetos em destaque
 
-### 🧾 [CRUD de Transações Financeiras](https://github.com/filipeyuan/crud-transacoes)
+### 🧾 [Finanças App — Controle de Transações](https://github.com/filipeyuan/financas-app)
 Aplicação full stack para controle de receitas e despesas.
 `Laravel` `Angular` `API REST`
 - Relacionamento entre entidades no backend
@@ -86,12 +86,12 @@ Aplicação full stack para controle de receitas e despesas.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipeyuan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipeyuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=filipeyuan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=filipeyuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeyuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filipeyuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Aplicação full stack para controle de receitas e despesas.
 Fico à disposição para trocar ideia sobre projetos e tecnologia através dos canais abaixo:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipeyuan-967238217" target="_blank">
+  <a href="https://www.linkedin.com/in/filipe-yuan-967238217" target="_blank">
     <img src="https://img.shields.io/badge/-Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:fyuansantos23@gmail.com">
