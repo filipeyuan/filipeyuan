@@ -74,7 +74,26 @@ Desenvolvedor Full Stack com experiência prática em **Angular, React (Next.js)
 
 ## 🚀 Projetos em destaque
 
-### 🧾 [Finanças App — Controle de Transações](https://github.com/filipeyuan/financas-app)
+### 📅 [Zelo: Sistema de Agendamento Online](https://github.com/filipeyuan/agendamento-app)
+Sistema full stack de agendamento pra negócios de serviço (salões, clínicas, barbearias), com diferenciais que vão além do CRUD básico.
+`Next.js` `TypeScript` `Laravel` `PostgreSQL` `IA (Gemini)` `Google Calendar API`
+
+<p>
+  <a href="https://agendamento-app-alpha.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Demo%20ao%20vivo-1F6FEB?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+- Agendamento sem conflito de horário, com lock transacional no banco
+- Assistente de agendamento via IA que consulta a agenda e cria o agendamento de verdade (function calling), não é só um chat decorativo
+- Sincronia bidirecional com Google Calendar (agendamentos confirmados viram evento real, compromissos pessoais bloqueiam horários)
+- Horário de atendimento configurável por dia da semana, com bloqueios manuais de data/hora
+- Dashboard de analytics: volume por dia, status, receita e serviços mais procurados
+- 59 testes PHPUnit + 17 testes Jest, PHPStan nível 8, CI no GitHub Actions a cada push
+
+<img src="https://raw.githubusercontent.com/filipeyuan/agendamento-app/main/docs/screenshot-home.png" alt="Zelo" width="600"/>
+
+### 🧾 [Finanças App: Controle de Transações](https://github.com/filipeyuan/financas-app)
 Aplicação full stack para controle de receitas e despesas.
 `Laravel` `Angular` `API REST`
 - Relacionamento entre entidades no backend
