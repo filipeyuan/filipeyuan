@@ -24,7 +24,7 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Full Stack com experiência prática em **Angular, React (Next.js) e PHP**, atuando na manutenção e evolução de sistemas em produção, implementação de novas funcionalidades, refatoração de código e integração com APIs REST, em aplicações web e mobile (React Native).
+Desenvolvedor Full Stack com experiência prática em **Angular, React (Next.js) e PHP**, atuando na manutenção e evolução de sistemas em produção, implementação de novas funcionalidades, refatoração de código e integração com APIs REST, em aplicações web e mobile (React Native). Também com experiência recente integrando IA (Google Gemini, function calling) e APIs de terceiros como Google Calendar em produção.
 
 - 🎓 Análise e Desenvolvimento de Sistemas — Centro Universitário Projeção
 - 🐍 Full Stack Python — EBAC
@@ -56,6 +56,14 @@ Desenvolvedor Full Stack com experiência prática em **Angular, React (Next.js)
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yii2-2E2E38?style=flat-square"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+**IA & Integrações**
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Calendar_API-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-000000?style=flat-square"/>
 </p>
 
 **Banco de Dados & Ferramentas**
@@ -92,13 +100,6 @@ Sistema full stack de agendamento pra negócios de serviço (salões, clínicas,
 - 59 testes PHPUnit + 17 testes Jest, PHPStan nível 8, CI no GitHub Actions a cada push
 
 <img src="https://raw.githubusercontent.com/filipeyuan/agendamento-app/main/docs/screenshot-home.png" alt="Zelo" width="600"/>
-
-### 🧾 [Finanças App: Controle de Transações](https://github.com/filipeyuan/financas-app)
-Aplicação full stack para controle de receitas e despesas.
-`Laravel` `Angular` `API REST`
-- Relacionamento entre entidades no backend
-- Formulários reativos no frontend
-- Listagem, filtros, edição e exclusão de registros
 
 ---
 
